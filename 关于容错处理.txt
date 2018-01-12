@@ -10,7 +10,7 @@
 /* AAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
        #define handle_error(msg) \
            do { perror(msg); exit(EXIT_FAILURE); } while (0)
-/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
+/*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
        int
        main(int argc, char *argv[])
        {
